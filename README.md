@@ -1,4 +1,4 @@
-# Programming Samples for Master CV&DS Admission
+# Programming Sample for Master CV&DS Admission
 
 **Author:** Amine QABIL  
 **Program:** Master Computer Vision & Data Science - NHL Stenden University
